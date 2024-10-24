@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.17634e13.css",
+    "main.js": "/portfolio/static/js/main.71daa9d5.js",
+    "static/js/453.8ab44547.chunk.js": "/portfolio/static/js/453.8ab44547.chunk.js",
+    "static/media/rithvik_linkedIn_dp.jpg": "/portfolio/static/media/rithvik_linkedIn_dp.4752d2b6c4bfc04330a4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.17634e13.css.map": "/portfolio/static/css/main.17634e13.css.map",
+    "main.71daa9d5.js.map": "/portfolio/static/js/main.71daa9d5.js.map",
+    "453.8ab44547.chunk.js.map": "/portfolio/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17634e13.css",
+    "static/js/main.71daa9d5.js"
+  ]
+}
